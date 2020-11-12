@@ -11,13 +11,15 @@
 
 ### Dionaea Honeypot Deployment (Required)
 
-**Summary:**  Dionaea is a low-interaction honeypot used to capture attack payloads and malwares.
+**Summary:**  Dionaea embedding python as scripting language is used to detect and collect malware attacks.
 
 <img src="https://recordit.co/rzmZAzeuM9.gif">
 
 ### Database Backup (Required) 
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
+The RDBMS that MHN-admin using is MongoDB to fetch JSON data which records id, source id, source port, dest port, protocol..
+
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
