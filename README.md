@@ -6,7 +6,7 @@
 
 ### MHN-Admin Deployment (Required)
 
-**Summary:** I use Google Cloud Platform(GCP) to deploy MHN-Admin
+**Summary:** I used Google Cloud Platform to deploy MHN-Admin
 <img src="https://recordit.co/iXEY6r27Vi.gif">
 
 ### Dionaea Honeypot Deployment (Required)
