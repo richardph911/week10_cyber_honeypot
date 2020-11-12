@@ -13,7 +13,7 @@
 
 **Summary:**  Dionaea is a low-interaction honeypot used to capture attack payloads and malwares.
 
-<img src="http://g.recordit.co/gkH3QewxD3.gif">
+<img src="https://recordit.co/4gSn7Ohiat.gif">
 
 ### Database Backup (Required) 
 
